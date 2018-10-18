@@ -1141,4 +1141,3 @@ msgstr "住所"
 
 msgid "Shortcodes"
 msgstr "ショートコード"
-
