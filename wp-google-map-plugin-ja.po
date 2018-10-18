@@ -118,7 +118,7 @@ msgstr "出発の場所"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:430
 msgid "Start Point"
-msgstr "始発点"
+msgstr "出発点"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:431
 msgid "Radius"
@@ -126,7 +126,7 @@ msgstr "半径"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:432
 msgid "End Location"
-msgstr "終点"
+msgstr "到着点"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:433
 msgid "Take Current Location"
