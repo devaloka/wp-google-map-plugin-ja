@@ -1,0 +1,1144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Google Map Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-18 11:52+0000\n"
+"PO-Revision-Date: 2018-10-18 14:08+0000\n"
+"Last-Translator: Whizark <devaloka@whizark.com>\n"
+"Language-Team: Devaloka\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:139
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:560
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:561
+msgid "Google Maps"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:215
+msgid "Enter Location :"
+msgstr "場所を入力 :"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:223
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:77
+msgid "Latitude"
+msgstr "緯度"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:223
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:86
+msgid "Longitude"
+msgstr "経度"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:232
+msgid "Choose Marker Categories :"
+msgstr "マーカーカテゴリーを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:258
+msgid "Do you want to assign a category? Please create category <a href='"
+msgstr "カテゴリーを割り当てたいですか？カテゴリーを作成してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:268
+msgid "Location Redirect :"
+msgstr "場所をリダイレクト :"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:293
+msgid "Please enter link."
+msgstr "リンクを入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:299
+msgid "Select Map :"
+msgstr "地図を選択 :"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:319
+msgid "Please <a href=\""
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:412
+msgid "Select Radius"
+msgstr "半径を選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:413
+msgid ""
+"Enter address or latitude or longitude or title or city or state or country "
+"or postal code here..."
+msgstr "住所か緯度か経度かタイトルか市区町村か県か国か郵便番号をここに入力..."
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:414
+msgid "Select"
+msgstr "選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:415
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/locations-form.php:47
+msgid "Select All"
+msgstr "全て選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:416
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:417
+msgid "All"
+msgstr "全て"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:418
+msgid "Show Locations"
+msgstr "場所を表示"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:419
+msgid "Sort by"
+msgstr "次で並べ替え"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:420
+msgid "not working..."
+msgstr "動作していません..."
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:422
+msgid "No results found."
+msgstr "結果が見つかりませんでした。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:423
+msgid "Route is not available for your requested route."
+msgstr "要求されたルートは利用できません。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:427
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:690
+msgid "Hide"
+msgstr "隠す"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:428
+msgid "Show"
+msgstr "表示"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:429
+msgid "Start Location"
+msgstr "出発の場所"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:430
+msgid "Start Point"
+msgstr "始発点"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:431
+msgid "Radius"
+msgstr "半径"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:432
+msgid "End Location"
+msgstr "終点"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:433
+msgid "Take Current Location"
+msgstr "現在の位置へ移動"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:434
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:435
+msgid "Your Location"
+msgstr "場所"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:436
+msgid "Driving"
+msgstr "自動車"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:437
+msgid "Bicycling"
+msgstr "自転車"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:438
+msgid "Walking"
+msgstr "徒歩"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:439
+msgid "Transit"
+msgstr "乗り換え"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:440
+msgid "Metric"
+msgstr "計測"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:441
+msgid "Imperial"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:442
+msgid "Find Direction"
+msgstr "方向を探す"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:443
+msgid "Miles"
+msgstr "マイル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:444
+msgid "KM"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:445
+msgid "Show Amenities"
+msgstr "設備を表示"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:446
+msgid "Find Locations"
+msgstr "場所を探す"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:447
+msgid "Prev"
+msgstr "前"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:448
+msgid "Next"
+msgstr "次"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:696
+msgid "Are you sure to delete item?"
+msgstr "項目を削除してもよろしいですか？"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:810
+msgid "Choose Icons"
+msgstr "アイコンを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:874
+msgid "Choose marker icon"
+msgstr "マーカーアイコンを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:880
+msgid "Choose icon"
+msgstr "アイコンを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:880
+msgid "Search icons"
+msgstr "アイコンを検索"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/wp-google-map-plugin.php:908
+msgid "Insert into Post"
+msgstr "投稿へ挿入"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:41
+msgid "Add Location"
+msgstr "場所を追加"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:42
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:41
+msgid "Manage Locations"
+msgstr "場所を管理"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:132
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:197
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/model.group_map.php:122
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/model.map.php:198
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:134
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:199
+msgid "Location updated successfully"
+msgstr "場所を更新しました"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:136
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/model.location.php:201
+msgid "Location added successfully."
+msgstr "場所を追加しました。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:41
+msgid "Location Information"
+msgstr "場所情報"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:46
+msgid ""
+"Google Maps API Key is missing. Follow instructions to <a target=\"_blank\" "
+"href=\"http://bit.ly/29Rlmfc\">create google maps api key </a> and then "
+"insert your key <a target=\"_blank\" href=\""
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:56
+msgid "Location Title"
+msgstr "場所タイトル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:59
+msgid "Enter Location Title"
+msgstr "場所タイトルを入力"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:63
+msgid "Location Address"
+msgstr "場所の住所"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:65
+msgid "Enter here the address. Google auto suggest helps you to choose one."
+msgstr "ここに住所を入力してください。選択を補助するために Google が自動提案を行います。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:68
+msgid "Type Location Address"
+msgstr "場所の住所を入力"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:72
+msgid "Latitude and Longitude"
+msgstr "緯度と経度"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:91
+msgid "City and State"
+msgstr "市区町村と県"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:95
+msgid "City"
+msgstr "市区町村"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:103
+msgid "State"
+msgstr "県"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:108
+msgid "Country and Postal Code"
+msgstr "国と郵便番号"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:112
+msgid "Country"
+msgstr "国"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:120
+msgid "Postal Code"
+msgstr "郵便番号"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:126
+msgid "Current Location"
+msgstr "現在の場所"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:133
+msgid "On Click"
+msgstr "クリックで"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:134
+msgid "Display Infowindow"
+msgstr "情報ウィンドウを表示"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:134
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:143
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:22
+msgid "Infowindow Message"
+msgstr "情報ウィンドウのメッセージ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:145
+msgid "Enter here the infoWindow message."
+msgstr "ここに情報ウィンドウのメッセージを入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:154
+msgid "Redirect Url"
+msgstr "リダイレクト URL"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:156
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr "ここにリダイレクト URL を入力してください。 例: http://www.flippercode.com"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:164
+msgid "YES"
+msgstr "はい"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:164
+msgid "NO"
+msgstr "いいえ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:165
+msgid "Open new tab"
+msgstr "新しいタブを開く"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:167
+msgid "Open a new window tab."
+msgstr "新しいウィンドウタブを開きます。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:176
+msgid "Infowindow Default Open"
+msgstr "情報ウィンドウを最初から開く"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:180
+msgid "Check to enable infowindow default open."
+msgstr "情報ウィンドウを最初から開く場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:184
+msgid "Marker Draggable"
+msgstr "マーカーのドラッグ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:188
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr "訪問者にマーカーのドラッグを許可する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:192
+msgid "Marker Animation"
+msgstr "マーカーアニメーション"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:200
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/model.group_map.php:41
+msgid "Marker Categories"
+msgstr "マーカーカテゴリー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:240
+msgid "You don't have categorie(s)."
+msgstr "カテゴリーがありません。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/form.php:254
+msgid "Save Location"
+msgstr "場所を保存"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/location/views/manage.php:14
+msgid "Start Geocoding Process"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "利用方法"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/model.group_map.php:40
+msgid "Add Marker Category"
+msgstr "マーカーカテゴリーを追加"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/model.group_map.php:124
+msgid "Category updated successfully"
+msgstr "カテゴリーを更新しました"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/model.group_map.php:126
+msgid "Category added successfully."
+msgstr "カテゴリーを追加しました。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:32
+msgid "Marker Category"
+msgstr "マーカーカテゴリー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:32
+msgid "Manage Marker Categories"
+msgstr "マーカーカテゴリーを管理"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:40
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/manage.php:54
+msgid "Parent Category"
+msgstr "親カテゴリー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:42
+msgid "Assign parent category if any."
+msgstr "親カテゴリーを割り当てます。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:49
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:54
+msgid "Marker Category Title"
+msgstr "マーカーカテゴリータイトル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:52
+msgid "Enter here marker category title."
+msgstr "マーカーカテゴリータイトルをここに入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:60
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:45
+msgid "Choose Marker Image"
+msgstr "マーカー画像を選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:63
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:48
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/locations-form.php:46
+msgid "Choose"
+msgstr "選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/form.php:64
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:49
+msgid "Remove"
+msgstr "削除"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/manage.php:52
+msgid "Category Title"
+msgstr "カテゴリータイトル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/manage.php:53
+msgid "Marker Image"
+msgstr "マーカー画像"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/group_map/views/manage.php:55
+msgid "Updated On"
+msgstr "次で更新"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/model.map.php:39
+msgid "Add Map"
+msgstr "地図を追加"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/model.map.php:40
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/form.php:49
+msgid "Manage Maps"
+msgstr "地図を管理"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/model.map.php:200
+msgid "Map updated successfully"
+msgstr "地図を更新しました"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/model.map.php:202
+msgid "Map added successfully."
+msgstr "地図を追加しました。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/model.map.php:229
+msgid "Copy"
+msgstr "複製"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/form.php:49
+msgid "Map Information"
+msgstr "地図情報"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/form.php:54
+msgid ""
+"Google Maps API Key is missing. Follow instructions to <a target=\"_blank\" "
+"href=\"http://bit.ly/292gCV2\">create google maps api key </a> and then "
+"insert your key <a target=\"_blank\" href=\""
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/form.php:88
+msgid "Save Map"
+msgstr "地図を保存"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:8
+msgid "Control Setting"
+msgstr "コントロールの設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:14
+msgid "Turn Off Zoom Control"
+msgstr "拡大縮小コントロールを無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:18
+msgid "Please check to disable zoom control."
+msgstr "拡大縮小コントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:24
+msgid "Turn Off Full Screen Control"
+msgstr "フルスクリーンコントロールを無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:28
+msgid "Please check to disable full screen control."
+msgstr "フルスクリーンコントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:34
+msgid "Turn Off Map Type Control"
+msgstr "地図タイプコントロールを無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:38
+msgid "Please check to disable map type control."
+msgstr "地図タイプコントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:42
+msgid "Turn Off Scale Control"
+msgstr "縮尺コントロールを無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:46
+msgid "Please check to disable scale control."
+msgstr "縮尺を無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:50
+msgid "Turn Off Street View Control"
+msgstr "ストリートビューコントロールを無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:54
+msgid "Please check to disable street view control."
+msgstr "ストリートビューコントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:58
+msgid "Turn Off Overview Map Control"
+msgstr "航空地図を無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:62
+msgid "Please check to disable overview map control."
+msgstr "航空地図コントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:24
+msgid "Control Position(s) Settings"
+msgstr "コントロールの位置設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:30
+msgid "Zoom Control"
+msgstr "拡大縮小コントロール"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Please select position of zoom control."
+msgstr "拡大縮小コントロールの位置を選択してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:37
+msgid "Zoom Control Style"
+msgstr "拡大縮小コントロールのスタイル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Please select style of zoom control."
+msgstr "拡大縮小コントロールのスタイルを選択してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:44
+msgid "Map Type Control"
+msgstr "地図タイプコントロール"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:47
+msgid "Please select position of map type control."
+msgstr "地図タイプコントロールの位置を選択してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:54
+msgid "Map Type Control Style"
+msgstr "地図タイプコントロールのスタイル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Please select style of map type control."
+msgstr "地図タイプコントロールのスタイルを選択してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:62
+msgid "Full Screen Control"
+msgstr "フルスクリーンコントロール"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:65
+msgid "Please select position of full screen control."
+msgstr "フルスクリーンコントロールの位置を選択してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:70
+msgid "Street View Control"
+msgstr "ストリートビューコントロール"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Please select position of street view control."
+msgstr "ストリートビューコントロールの位置を選択してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:9
+msgid "Infowindow Settings"
+msgstr "情報ウィンドウの設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:14
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"プレイスホルダー {marker_title},{marker_address},{marker_message},{marker_latitude},"
+"{marker_longitude} を入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:38
+msgid "Show Infowindow on"
+msgstr "情報ウィンドウを次で表示"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:40
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr "マウスクリックかホバーで情報ウィンドウを開きます。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:54
+msgid "InfoWindow Open"
+msgstr "情報ウィンドウを開く"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:58
+msgid "Please check to enable infowindow default open."
+msgstr "情報ウィンドウを最初から表示する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:63
+msgid "Close InfoWindow"
+msgstr "情報ウィンドウを閉じる"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:67
+msgid "Please check to close infowindow on map click."
+msgstr "地図をクリックで情報ウィンドウを閉じる場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:71
+msgid "Select Animation"
+msgstr "アニメーションを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:71
+msgid "Mouse Click"
+msgstr "マウスクリック"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:71
+msgid "Mouse Hover"
+msgstr "マウスホバー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:73
+msgid "Bounce Animation"
+msgstr "バウンスアニメーション"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:75
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr "マウスホバーかクリックでバウンスアニメーションを適用する。バウンスは場所にマーカーが弾むことを意味します。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:80
+msgid "Apply Drop Animation"
+msgstr "ドロップアニメーションを適用"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:84
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr "ドロップは地図の上からマーカーが落ちてくることを意味します。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:90
+msgid "Layers Settings"
+msgstr "レイヤー設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:96
+msgid "Traffic Layer"
+msgstr "交通量レイヤー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:100
+msgid "Please check to enable traffic Layer."
+msgstr "交通量レイヤーを有効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:105
+msgid "Transit Layer"
+msgstr "乗り換えレイヤー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:109
+msgid "Please check to enable Transit Layer."
+msgstr "乗り換えレイヤーを有効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:115
+msgid "Bicycling Layer"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/layers-form.php:119
+msgid "Please check to enable Bicycling Layer."
+msgstr "自転車レイヤーを有効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/locations-form.php:41
+msgid "Choose Locations"
+msgstr "場所を選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/locations-form.php:48
+msgid "Deselect All"
+msgstr "選択を全て解除"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "ストリートビューの設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:15
+msgid "Turn On Street View"
+msgstr "ストリートビューを有効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:19
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:29
+msgid "Please check to enable Street View control."
+msgstr "ストリートビューコントロールを有効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:25
+msgid "Turn On Close Button."
+msgstr "閉じるボタンを有効化します。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:36
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:47
+msgid "Turn Off links Control."
+msgstr "リンクコントロールを無効化します。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:40
+msgid "Please check to disable links control."
+msgstr "リンクコントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:51
+msgid "Please check to disable Street View Pan control."
+msgstr "ストリートビューパンコントロールを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:58
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:67
+msgid "POV Heading"
+msgstr "POV ヘッディング"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:61
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:70
+msgid "Please enter POV heading."
+msgstr "POV ヘッディングを入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:77
+msgid "POV Pitch"
+msgstr "POV ピッチ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/street-view-setting-form.php:80
+msgid "Please enter POV Pitch."
+msgstr "POV ピッチを入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "地図タイトル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter here the map title."
+msgstr "地図タイトルをここに入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "地図の幅"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:17
+msgid "Enter here the map width in pixel. Leave it blank for 100% width."
+msgstr "ここに地図の幅をピクセルで入力してください。100% 幅にする場合は空欄にしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "地図の高さ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter here the map height in pixel."
+msgstr "ここに地図の高さをピクセルで入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "地図ズームレベル"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:35
+msgid "Available options 0 to 19."
+msgstr "0 から 19 を選択可能です。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:41
+msgid "Map Type"
+msgstr "地図タイプ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:47
+msgid "Turn Off Scrolling Wheel"
+msgstr "ホイールスクロールを無効化"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:51
+msgid "Please check to disable scroll wheel zoom."
+msgstr "ホイールズームを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:55
+msgid "Map Draggable"
+msgstr "地図のドラッグ"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:59
+msgid "Please check to disable map draggable."
+msgstr "地図のドラッグを無効化する場合はチェックしてください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:64
+msgid "45&deg; Imagery"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:68
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "地図の中央"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/map-center-settings.php:14
+msgid "Center Latitude"
+msgstr "中央の緯度"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/map-center-settings.php:16
+msgid "Enter here the center latitude."
+msgstr "中央の緯度を入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/map-center-settings.php:20
+msgid "Center Longitude"
+msgstr "中央の経度"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/map-center-settings.php:22
+msgid "Enter here the center longitude."
+msgstr "中央の経度を入力してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/model.settings.php:28
+msgid "Settings"
+msgstr "設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/model.settings.php:72
+msgid "Setting(s) saved successfully."
+msgstr "設定を保存しました。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:10
+msgid "General Setting(s)"
+msgstr "一般設定"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:12
+msgid "Google Maps API Key"
+msgstr "Google Maps API キー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:14
+msgid ""
+"Get here <a target=\"_blank\" href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key\"> Api Key </a> and insert "
+"here."
+msgstr ""
+"<a target=\"_blank\" href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key\">API</a> キーを取得してここに挿入してください。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:18
+msgid "ENGLISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:19
+msgid "ARABIC"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:20
+msgid "BASQUE"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:21
+msgid "BULGARIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:22
+msgid "BENGALI"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:23
+msgid "CATALAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:24
+msgid "CZECH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:25
+msgid "DANISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:26
+msgid "GERMAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:27
+msgid "GREEK"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:28
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:29
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:30
+msgid "SPANISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:31
+msgid "FARSI"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:32
+msgid "FINNISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:33
+msgid "FILIPINO"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:34
+msgid "FRENCH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:35
+msgid "GALICIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:36
+msgid "GUJARATI"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:37
+msgid "HINDI"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:38
+msgid "CROATIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:39
+msgid "HUNGARIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:40
+msgid "INDONESIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:41
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:49
+msgid "ITALIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:42
+msgid "HEBREW"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:43
+msgid "JAPANESE"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:44
+msgid "KANNADA"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:45
+msgid "KOREAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:46
+msgid "LITHUANIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:47
+msgid "LATVIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:48
+msgid "MALAYALAM"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:50
+msgid "MARATHI"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:51
+msgid "DUTCH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:52
+msgid "NORWEGIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:53
+msgid "POLISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:54
+msgid "PORTUGUESE"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:55
+msgid "PORTUGUESE (BRAZIL)"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:56
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:57
+msgid "ROMANIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:58
+msgid "RUSSIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:59
+msgid "SLOVAK"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:60
+msgid "SLOVENIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:61
+msgid "SERBIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:62
+msgid "SWEDISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:63
+msgid "TAGALOG"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:64
+msgid "TAMIL"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:65
+msgid "TELUGU"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:66
+msgid "THAI"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:67
+msgid "TURKISH"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:68
+msgid "UKRAINIAN"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:69
+msgid "VIETNAMESE"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:70
+msgid "CHINESE (SIMPLIFIED)"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:71
+msgid "CHINESE (TRADITIONAL)"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:75
+msgid "Map Language"
+msgstr "地図の言語"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:77
+msgid "Choose your language for map. Default is English."
+msgstr "地図の言語を選択してください。初期値は英語です。"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:84
+msgid "Include Scripts in "
+msgstr "スクリプトを次に含める"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:85
+msgid "Header"
+msgstr "ヘッダー"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:85
+msgid "Footer (Recommanded)"
+msgstr "フッター (推奨)"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/settings/views/manage.php:92
+msgid "Save Setting"
+msgstr "設定を保存"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.plugin-overview.php:458
+msgid "Download WP Google Map Pro 4.0.0"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php:25
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr ""
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php:73
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "タイトル:"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php:79
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/classes/class.map-widget.php:79
+msgid "Select Your Map:"
+msgstr "地図を選択:"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php:82
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/classes/class.map-widget.php:82
+msgid "Select map"
+msgstr "地図を選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.tabular.php:230
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.tabular.php:415
+msgid "Selected "
+msgstr "選択済み"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.tabular.php:248
+msgid "Manage "
+msgstr "管理"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.tabular.php:582
+msgid "Filter"
+msgstr "フィルター"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/core/class.tabular.php:642
+msgid "Select Page"
+msgstr "ページを選択"
+
+#: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/classes/wpgmp-template.php:36
+msgid "WP Google Map Plugin"
+msgstr ""
+
+# Others.
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Shortcodes"
+msgstr "ショートコード"
+
