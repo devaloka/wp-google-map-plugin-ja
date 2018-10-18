@@ -770,7 +770,7 @@ msgstr "ここに地図の高さをピクセルで入力してください。"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:33
 msgid "Map Zoom Level"
-msgstr "地図ズームレベル"
+msgstr "地図の拡縮レベル"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:35
 msgid "Available options 0 to 19."
@@ -786,7 +786,7 @@ msgstr "ホイールスクロールを無効化"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:51
 msgid "Please check to disable scroll wheel zoom."
-msgstr "ホイールズームを無効化する場合はチェックしてください。"
+msgstr "ホイールによる拡大縮小を無効化する場合はチェックしてください。"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/general-setting-form.php:55
 msgid "Map Draggable"
