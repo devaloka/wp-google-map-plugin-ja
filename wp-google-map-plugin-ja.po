@@ -536,11 +536,11 @@ msgstr "ストリートビューコントロールを無効化する場合はチ
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:58
 msgid "Turn Off Overview Map Control"
-msgstr "航空地図を無効化"
+msgstr "オーバービュー地図を無効化"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-setting-form.php:62
 msgid "Please check to disable overview map control."
-msgstr "航空地図コントロールを無効化する場合はチェックしてください。"
+msgstr "オーバービュー地図コントロールを無効化する場合はチェックしてください。"
 
 #: usr/local/ampps/www/fcplug/wp-content/plugins/wp-google-map-plugin/modules/map/views/map-forms/control-position-style-form.php:24
 msgid "Control Position(s) Settings"
